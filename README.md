@@ -10,6 +10,13 @@
 - enter the IP address seen on the Host machine
 - you should now be connected and able to communicate over the internet!!
 
+## Whats Coming Up:
+- End to End Encryption
+- GUI for both server and Client
+- Speed Up the code a bit
+- tidy up Variables
+
+
 ## Customization
 
 - If you Want more connections to the server, feel free to modify the "serversocket.listen(10)" code, the ten represents that only 10 unique IP addresses can connect to this server, the higher you put it though the more recource hungry it can become.
