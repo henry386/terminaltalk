@@ -1,13 +1,9 @@
 from time import sleep
 
-# Sockets are a way of sending data over a network.
-# There are two main types of sockets, TCP and UDP.
-# Which to use depends on the application you are communicating with.
 
-# You will need to import the socket library first.
 import socket
 
-# create an INET, STREAMing socket
+
 
 hostname = socket.gethostname()
 ip_address = socket.gethostbyname(hostname)
