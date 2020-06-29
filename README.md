@@ -2,6 +2,14 @@
 
 ### A simple instant messaging program written in python
 
+![Python](https://img.shields.io/badge/Language-Python%203+-yellow) ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-success)
+
+## GUI Implementation
+
+- Simple GUI for client has been implemented by using python tkinter module
+
+![Terminal talk GUI](https://github.com/siva222r/terminaltalk/blob/master/screenshots/terminaltalk.png?raw=true)
+
 ## Usage Guide
 
 - Run the server script on the machine you have designated as the host
