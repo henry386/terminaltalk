@@ -1,0 +1,6 @@
+2020-06-29 12:29:30.861396   Message 0:   connected from: DESKTOP-8U4QQ57 169.254.64.122
+
+2020-06-29 12:29:36.386445   Message 1: 169.254.64.122: hello there!
+2020-06-29 12:29:45.930382   Message 2: 169.254.64.122: I have the high ground now
+2020-06-29 12:29:57.810697   Message 3: 169.254.64.122: You were like a brother to me Anakin
+2020-06-29 12:30:22.418573   Message 4: 169.254.64.122: I AM YOUR FATHER!.... NOOOOOO
