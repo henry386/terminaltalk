@@ -8,7 +8,7 @@
 
 - Simple GUI for client has been implemented by using python tkinter module
 
-![Terminal talk GUI](https://github.com/siva222r/terminaltalk/screenshots/terminaltalk.png?raw=true)
+![Terminal talk GUI](https://github.com/siva222r/terminaltalk/blob/master/screenshots/terminaltalk.png?raw=true)
 
 ## Usage Guide
 
